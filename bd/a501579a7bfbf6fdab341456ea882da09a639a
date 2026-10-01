@@ -1,0 +1,31 @@
+src/lib/packaging_cleanup.ts
+  s_6982a5a96830f5::t_c7e71bb432b1bb 501-502
+  s_6982a5a96830f5::t_608f9011f86be1 450-460,463,466,468,472,479
+  s_6982a5a96830f5::t_c347dc0bad8c96 10
+  s_6982a5a96830f5::t_1ed2cefd07300a 18
+src/__tests__/packaging_cleanup.test.ts
+  s_6982a5a96830f5::t_d1a859b0f61c8f 211,215-218,223,231-262
+  s_6982a5a96830f5::t_32b6cdfec167b1 415-416,420,427
+forge.config.ts
+  s_6982a5a96830f5::t_950dc3ce1484c2 199-200,208-209
+  s_6982a5a96830f5::t_38f50881434034 17,19
+  s_6982a5a96830f5::t_7461761f9a80d6 151-173
+  s_6982a5a96830f5::t_64b2b178c8068a 210-212
+  s_6982a5a96830f5::t_b5350447ff450d 213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.1",
+  "base_commit_sha": "bda501579a7bfbf6fdab341456ea882da09a639a",
+  "prompts": {},
+  "sessions": {
+    "s_6982a5a96830f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c76f8642-032b-4aa9-bb82-cabc8ab600aa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guiraud <mehdi.guiraud@gmail.com>"
+    }
+  }
+}
