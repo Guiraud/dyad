@@ -1,0 +1,19 @@
+scripts/rebuild-keychain-reader.mjs
+  s_ce5d1f807e4db8::t_49800b42427bd8 10-12,15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.1",
+  "base_commit_sha": "ea7bfab16b9ecb84cc458839c4e17750d74c926b",
+  "prompts": {},
+  "sessions": {
+    "s_ce5d1f807e4db8": {
+      "agent_id": {
+        "tool": "antigravity",
+        "id": "1a4c5f30-861e-4233-93d1-edd79d116713",
+        "model": "gemini-3.8-flash-high"
+      },
+      "human_author": "Guiraud <mehdi.guiraud@gmail.com>"
+    }
+  }
+}
