@@ -1,0 +1,23 @@
+index.html
+  s_6982a5a96830f5::t_3147569495437f 6
+e2e-tests/helpers/codegen.js
+  s_6982a5a96830f5::t_3147569495437f 13,17
+package.json
+  s_6982a5a96830f5::t_3147569495437f 223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.1",
+  "base_commit_sha": "09a40ca36529fc2ee85c995dcaad7487681dec4f",
+  "prompts": {},
+  "sessions": {
+    "s_6982a5a96830f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c76f8642-032b-4aa9-bb82-cabc8ab600aa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guiraud <mehdi.guiraud@gmail.com>"
+    }
+  }
+}
